@@ -1,6 +1,6 @@
 
 ## EYET Books
-Is a webapp that uses an IT books Api. This is just the front-end to display, sort, search and more upon the data that the API provides.
+Is a **React.js WebApp** that uses an IT books Api. This is just the front-end to display, sort, search and more upon the data that the API provides.
 
 <img src="https://i.ibb.co/5MmYKVw/eyet.png"/>
 
