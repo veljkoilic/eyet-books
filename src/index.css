@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;700;900&display=swap');
+*{
+  transition: 0.3s;
+}
+:root{
+  --backgound: #fff;
+  --sidebar: #f7f7f7;
+  --border: #f3f2f3;
+  --heart-red: #fd4f51;
+  --cash-green: #a1c590;
+  --gray-and-bold: #2c3235;
+  --light-text: #afaeb0;
+  --orange-annotate: #fb9e21;
+
+}
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--background);
+  overflow-x: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
